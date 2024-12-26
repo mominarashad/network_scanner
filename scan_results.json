@@ -1,0 +1,50 @@
+[
+    {
+        "IP": "192.168.0.102",
+        "MAC": "80:91:33:d8:85:df",
+        "Vendor": "Cumulus Networks, Inc, 650 Castro Street, suite 120-245 Mountain View CA 94041 US",
+        "Open Ports": [
+            80
+        ],
+        "OS": "Microsoft Windows 10 1607 - 11 23H2",
+        "Speed": "Download: 3.30 Mbps, Upload: 5.45 Mbps, Ping: 46.064 ms",
+        "Domain": "DESKTOP-4M2VKIR",
+        "Security Status": "Malicious activity found: 0 threats"
+    },
+    {
+        "IP": "192.168.97.128",
+        "MAC": "Unknown MAC",
+        "Vendor": "Cumulus Networks, Inc, 650 Castro Street, suite 120-245 Mountain View CA 94041 US",
+        "Open Ports": [
+            80
+        ],
+        "OS": "Microsoft Windows 10 1607 - 11 23H2",
+        "Speed": "Download: 41.34 Mbps, Upload: 12.59 Mbps, Ping: 62.798 ms",
+        "Domain": "DESKTOP-4M2VKIR",
+        "Security Status": "Malicious activity found: 0 threats"
+    },
+    {
+        "IP": "192.168.97.128",
+        "MAC": "Unknown MAC",
+        "Vendor": "Cumulus Networks, Inc, 650 Castro Street, suite 120-245 Mountain View CA 94041 US",
+        "Open Ports": [
+            80
+        ],
+        "OS": "Microsoft Windows 10 1607 - 11 23H2",
+        "Speed": "Download: 24.46 Mbps, Upload: 12.98 Mbps, Ping: 51.261 ms",
+        "Domain": "DESKTOP-4M2VKIR",
+        "Security Status": "Malicious activity found: 0 threats"
+    },
+    {
+        "IP": "192.168.0.102",
+        "MAC": "80:91:33:d8:85:df",
+        "Vendor": "Cumulus Networks, Inc, 650 Castro Street, suite 120-245 Mountain View CA 94041 US",
+        "Open Ports": [
+            80
+        ],
+        "OS": "Microsoft Windows 10 1607 - 11 23H2",
+        "Speed": "Download: 3.33 Mbps, Upload: 4.90 Mbps, Ping: 37.674 ms",
+        "Domain": "DESKTOP-4M2VKIR",
+        "Security Status": "Malicious activity found: 0 threats"
+    }
+]
